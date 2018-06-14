@@ -1,0 +1,218 @@
+h1{
+font-size:100px;
+font-family:  Futura,Trebuchet MS,Arial,sans-serif;
+text-align: center;
+background-color: darkseagreen;
+}
+
+h2{
+  font-size:40px;
+  font-family:Futura,Trebuchet MS,Arial,sans-serif;
+  text-align: center;
+  border: 3px dotted green
+}
+
+h3{
+  font-size: 35px;
+  font-family: helvetica;
+  color: green;
+  text-align: center;
+}
+
+ul{
+  font-family: helvetica;
+  color:green;
+}
+
+body{
+  background-color: antiquewhite;
+}
+
+
+.mountain{
+  text-align: center;
+}
+
+.flume{
+  text-align:center;
+  border-top: 13px solid darkseagreen;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+
+}
+
+
+.dogs{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.polar{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+
+.tram{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.moose{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.railroad{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.santa{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.whale{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.lost{
+  text-align:center;
+  color: green;
+  border-bottom: 13px solid darkseagreen;
+}
+
+.pizza{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  border-top: 13px solid darkseagreen;
+  color: green;
+}
+
+.burger{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.bagel{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.woodstock{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.pancake{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+
+.icecream{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.country{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+  border-top: 13px solid darkseagreen;
+}
+
+.hotel{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.resort{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.resort1{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.resort2{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.resort3{
+  text-align:center;
+  border-bottom: 13px solid darkseagreen;
+  color: green;
+}
+
+.bear{
+  text-align:center;
+  border: 10px green dotted;
+
+}
+
+p{
+  font-size:20px;
+  text-align: center;
+  font-family:helvetica;
+}
+
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  font-family: helvetica;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+  margin:20px;
+  text-decoration:none;
+}
+
+.buttongroup{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkseagreen;
+
+}
+
+a:hover{
+  background-color: cornflowerblue;
+}
+
+.fall{
+  text-align: center;
+  border-top: 15px solid darkseagreen;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 15px solid darkseagreen;
+}
+
+footer{
+  background-color: darkseagreen;
+}
